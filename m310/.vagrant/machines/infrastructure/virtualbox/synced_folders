@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/luffy1610/Desktop/mongodb/m310","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant/shared":{"create":true,"guestpath":"/home/vagrant/shared","hostpath":"/Users/luffy1610/Desktop/mongodb/m310/shared","disabled":false,"__vagrantfile":true}}}
