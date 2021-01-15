@@ -51,4 +51,4 @@ Create a private key and generate a certificate request from it
 
 ### References
 * [MySQL Document](https://dev.mysql.com/doc/refman/8.0/en/creating-ssl-files-using-openssl.html)
-* [OpenSSL Document] (https://www.openssl.org/docs/)
+* [OpenSSL Document](https://www.openssl.org/docs/)
